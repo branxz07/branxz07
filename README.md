@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Brandon Avalos, I am a Systems engineering student, highly motivated to learn more about Cybersecurity in the area of Pentesting,  Vulnerability Assessment, Risk Management; I am interested too in cloud automation. I am familiar with working with Linux with Kali environment and Windows, I consider myself a Intermediate-Advance programmer in Python, and Intermediate in Java and C++, having a basic knowledge of scripting in Python and Bash. I am a self-taught person, and how I have acquired most of my skills, and knowledge besides the degree I am pursuing.
+My name is Brandon Avalos, I am a Systems engineering student, highly motivated to learn more about Cybersecurity in the area of Pentesting,  Vulnerability Assessment, Risk Management; I am interested too in cloud automation. I am familiar with working with Linux in Kali environment and Windows, I consider myself a Intermediate-Advance programmer in Python, and Intermediate in Java and C++, having a basic knowledge of scripting in Python and Bash. I am a self-taught person, and how I have acquired most of my skills, and knowledge besides the degree I am pursuing.
 
 ## 🔧 Tools and Technologies
   * Programming Languages: Intermediate-Advance in Python, intermediate in Java, and C++, familiar with C#, JavaScript
