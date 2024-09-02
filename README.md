@@ -8,11 +8,11 @@ My name is Brandon Avalos, I am a Systems engineering student, highly motivated 
   * Tools and Frameworks: Docker, Git, Oracle VM virtual machine
   * Operating Systems: Linux (Kali environment), Windows
   * Cybersecurity: Network Security and protocols, Vulnerability Assessment, Penetration Testing knowledge.
-
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=branxz07&layout=compact"/>
-
-
-
+ #
+   <img alt="my stats" align="left" with=47%  src="https://github-readme-stats.vercel.app/api?username=branxz07"/>
+   <img alt="top lang" align="rigth" with=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=branxz07&layout=compact"/>
+  
+#
 ## 🌱  I’m Currently Learning . . .
 I am now learning about Assets, Threats, and Vulnerabilities, during my Google course in Cybersecurity, while also learning a bit of Python automation and scripting for DevOps. This semester I learned about Network Protocls, TCP and UDP servers.
 
