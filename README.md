@@ -10,7 +10,7 @@ My name is Brandon Avalos, I am a Systems engineering student, highly motivated 
   * Cybersecurity: Network Security and protocols, Vulnerability Assessment, Penetration Testing knowledge.
  #
    <img alt="my stats" align="left" with=47%  src="https://github-readme-stats.vercel.app/api?username=branxz07"/>
-   <img alt="top lang" align="rigth" with=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=branxz07&langs_count=10&hide=TypeScript,html,c%23,css,scss,hlsl,shaderlab&layout=compact"/>
+   <img alt="top lang" align="rigth" with=47% src=""/>
    
 #
 ## 🌱  I’m Currently Learning . . .
